@@ -1,0 +1,1 @@
+premake4 --file=tiled_demo.premake4.lua --os=windows vs2008
